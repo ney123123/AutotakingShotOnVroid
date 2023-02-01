@@ -1,6 +1,6 @@
 # AutotakingShotOnVroid
 
-attach autoscreenshot.cs to Maincamera, and set the "player" to your character
+attach autoscreenshot.cs to Maincamera, and set the "player" to your character's transform
 
 attach takepic.cs to any object
 
